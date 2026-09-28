@@ -1,22 +1,24 @@
 # Hi, I'm Sidikat 👋
 
-I'm a product marketer focused on positioning, go-to-market, growth, and early-stage product development.
+People call me Sid, Sidi, Kat, Sidikat — take your pick, I answer to all :)
 
-I use AI to research markets, build products and internal systems, and experiment with new ways of working.
+I'm a product marketer who got into building with AI sometime around May and has been mildly amazed ever since.
 
-## What I'm working on
+A year ago, I knew almost nothing about GitHub, Supabase, Vercel, or most of the tools I now use regularly.
 
-- Product marketing and growth for early-stage and founder-led businesses
-- AI-assisted product development and prototyping
-- Research into chat-native products and AI accessibility
-- Marketing workflows, systems, and tools
+(There's technically that 6-week stint in university where I was a software engineering major, but I don't think that counts 😅)
 
-## Selected projects
+My rule with AI is simple: **actually learn something, then let AI do it the rest of the time.**
 
-- **The Chat Store** — a directory and media hub tracking chat-native products and platforms
-- **Skin Journal** — a personal PWA for tracking skincare products and patch testing
-- **Krescko Client Hub** — an internal client management and operations system
+I could give AI access and let it set everything up for me, but I usually want to understand what connects to what and why I'm clicking approve.
 
-## Elsewhere
+Most of what I build lives in private repos, including personal projects, client websites, and the occasional experiment that gets retired when I realise I don't actually need it.
 
-- [LinkedIn](https://www.linkedin.com/in/sidikatolajuwon/)
+A few examples:
+- **The Chat Store** — a directory and media project tracking chat-native products in emerging markets.
+- **Skin Journal** — a PWA for tracking my products, patch tests, and reactions.
+- **LinkedIn Content System** — used for a week before I relapsed into dumping chaotic thoughts in Notion. We live and learn.
+
+If the public repos look a little sparse, the activity graph below is a better reflection of what I'm actually up to.
+
+Feel free to say hi on [LinkedIn](https://www.linkedin.com/in/sidikatolajuwon/) 🤗
