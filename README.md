@@ -10,8 +10,9 @@ My rule with AI is simple: **actually learn something, then let AI do it the res
 
 Most of what I build is private, including client work and experiments I eventually realise I don't need.
 
+A few examples:
 - **The Chat Store**: a directory and media project tracking chat-native products in emerging markets.
-- **Skin Journal**: a PWA for tracking my products, patch tests, and reactions.
+- **Krescko Hub**: a client management system to keep projects, client info, and internal workflows in one place.
 - **LinkedIn Content System**: used for a week before I relapsed into dumping chaotic thoughts in Notion. We live and learn.
 
 Feel free to say hi on [LinkedIn](https://www.linkedin.com/in/sidikatolajuwon/) 🤗
