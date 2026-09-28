@@ -15,9 +15,9 @@ I could give AI access and let it set everything up for me, but I usually want t
 Most of what I build lives in private repos, including personal projects, client websites, and the occasional experiment that gets retired when I realise I don't actually need it.
 
 A few examples:
-- **The Chat Store** — a directory and media project tracking chat-native products in emerging markets.
-- **Skin Journal** — a PWA for tracking my products, patch tests, and reactions.
-- **LinkedIn Content System** — used for a week before I relapsed into dumping chaotic thoughts in Notion. We live and learn.
+- **The Chat Store**: a directory and media project tracking chat-native products in emerging markets.
+- **Skin Journal**: a PWA for tracking my products, patch tests, and reactions.
+- **LinkedIn Content System**: used for a week before I relapsed into dumping chaotic thoughts in Notion. We live and learn.
 
 If the public repos look a little sparse, the activity graph below is a better reflection of what I'm actually up to.
 
