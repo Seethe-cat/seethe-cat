@@ -1,4 +1,4 @@
-# Hi, I'm Sidikat 👋
+# Hi, I'm Sidikat 🐈‍⬛
 
 I'm a product marketer who got into building with AI sometime around May and has been mildly amazed ever since.
 
