@@ -15,4 +15,4 @@ A few examples:
 - **Krescko Hub**: a client management system to keep projects, client info, and internal workflows in one place.
 - **LinkedIn Content System**: used for a week before I relapsed into dumping chaotic thoughts in Notion. We live and learn.
 
-Feel free to say hi on [LinkedIn](https://www.linkedin.com/in/sidikatolajuwon/) 🤗
+Feel free to say hi on [LinkedIn](https://www.linkedin.com/in/sidikatolajuwon/) or check out [my website]([url](https://sidikat.com/)) 🤗
